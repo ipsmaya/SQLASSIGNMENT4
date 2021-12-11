@@ -1,0 +1,11 @@
+2. SELECT column_name 
+FROM INFORMATION_SCHEMA
+GROUP BY column_name
+
+3.& is a bitwise operator and compares each operand bitwise
+Whereas && is a logical AND operator and operates on boolean operands. 
+If both the operands are true, then the condition becomes true 
+otherwise it is false
+
+
+UNABLE TO ANSWER THE REST QUETION KINDLY PROVIDE SOLUTION
